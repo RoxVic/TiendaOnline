@@ -50,6 +50,11 @@ button {
 
 nav {
     background-color: aquamarine;
+
+    animation-name: desliza1;
+    animation-duration: 1.3s;
+    animation-timing-function: ease;
+
 }
 
 @media(min-width: 600px) {

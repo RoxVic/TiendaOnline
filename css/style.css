@@ -43,3 +43,11 @@ button {
     margin-top: 10px;
     border-radius: 8px;
 }
+
+/*  Media query: Tablet */
+@media (min-width: 600px) {
+    section {
+        grid-template-columns: repet(2, 1f);
+    }
+    
+}

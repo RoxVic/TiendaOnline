@@ -28,7 +28,7 @@ article {
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
 
     animation-name: desliza2;
-    animation-duration: 0.8s;
+    animation-duration: 1.3s;
     animation-timing-function: ease;
 }
 
